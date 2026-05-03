@@ -6,10 +6,7 @@ import json
 # --- 1. UI CONFIG ---
 st.set_page_config(page_title="Nexus: Serper Edition", page_icon="🚀", layout="wide")
 
-# --- 2. CONFIGURATION ---
-# PASTE YOUR KEYS HERE
-GEMINI_API_KEY = "AIzaSyD-Zt6Dd4tTV584W01nDEwaiWGIMF2gsJQ"
-SERPER_API_KEY = "77c2ecedad65d70b16555180fa7fc76103941db9"
+
 
 # Configure Gemini
 try:
